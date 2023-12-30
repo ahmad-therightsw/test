@@ -1,6 +1,3 @@
 main(){
-    print('sdfkldsj');
-    print('sdfkldsj');
-    print('sdfkldsj');
-    print('sdfkldsj');
+    print('creating an issue and linking branch and closing after merge');
 }
