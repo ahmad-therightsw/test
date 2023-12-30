@@ -1,3 +1,3 @@
 main(){
-    print('creating an issue and linking branch and closing after merge');
+    print('linking branch to an issue and then merge to close that issue');
 }
